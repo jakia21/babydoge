@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'junegull';
+					src: url('/wp-content/uploads/useanyfont/3547Junegull.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/3547Junegull.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.junegull{font-family: 'junegull' !important;}
+
+		
